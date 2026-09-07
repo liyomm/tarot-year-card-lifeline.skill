@@ -1,0 +1,5 @@
+interface:
+  display_name: "Personal Tarot Map"
+  short_description: "生成多来源、可追溯的个人塔罗生命地图与完整年表"
+  default_prompt: "使用 $tarot-year-card-lifeline，先确认必要资料，再生成同内容的 Markdown 与 PDF Personal Tarot Map，包括出生牌、当前年度、生命牌序回声与完整 0～100 岁查询表。"
+  brand_color: "#342451"
